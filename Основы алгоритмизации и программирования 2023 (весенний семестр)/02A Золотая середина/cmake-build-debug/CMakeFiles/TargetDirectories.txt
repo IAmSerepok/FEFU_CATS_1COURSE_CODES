@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/midle/cmake-build-debug/CMakeFiles/midle.dir
+C:/Users/User/Desktop/midle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/midle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

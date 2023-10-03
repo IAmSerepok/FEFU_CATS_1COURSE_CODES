@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/Fermas_dot/cmake-build-debug/CMakeFiles/Ferma_s_dot.dir
+C:/Users/User/Desktop/Fermas_dot/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Fermas_dot/cmake-build-debug/CMakeFiles/rebuild_cache.dir

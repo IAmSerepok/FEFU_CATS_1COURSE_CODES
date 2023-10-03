@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675088133 source:c:\users\user\desktop\rtrt\main.cpp
+	<string>
+	<fstream>
+	<iostream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666752444 source:c:\users\user\desktop\ЯиМП\a3 К-удивительные числа\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
