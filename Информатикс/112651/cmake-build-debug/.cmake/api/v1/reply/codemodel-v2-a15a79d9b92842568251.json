@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "decstra",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "decstra::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-decstra-Debug-3be6efe81f6384d08f0a.json",
+					"name" : "decstra",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/User/Desktop/C++/\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0441/112651/cmake-build-debug",
+		"source" : "C:/Users/User/Desktop/C++/\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0441/112651"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

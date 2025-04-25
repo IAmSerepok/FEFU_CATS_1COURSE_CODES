@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/C++/CATS/Основы алгоритмизации и программирования 2023 (весенний семестр)/04E Комбинированная эстафета/cmake-build-debug/CMakeFiles/untitled222.dir
+C:/Users/User/Desktop/C++/CATS/Основы алгоритмизации и программирования 2023 (весенний семестр)/04E Комбинированная эстафета/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/C++/CATS/Основы алгоритмизации и программирования 2023 (весенний семестр)/04E Комбинированная эстафета/cmake-build-debug/CMakeFiles/rebuild_cache.dir

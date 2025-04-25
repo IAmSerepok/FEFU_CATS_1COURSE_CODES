@@ -1,0 +1,9 @@
+# ninja log v5
+0	707	7044732582045412	CMakeFiles/isolation.dir/main.cpp.obj	9f694bdb60cea25
+710	888	7044732583818700	isolation.exe	3de75fefe1c57643
+5	596	7044759501078729	CMakeFiles/isolation.dir/main.cpp.obj	9f694bdb60cea25
+596	790	7044759503034784	isolation.exe	3de75fefe1c57643
+7	637	7044779210934145	CMakeFiles/isolation.dir/main.cpp.obj	9f694bdb60cea25
+638	881	7044779213339585	isolation.exe	3de75fefe1c57643
+6	1007	7044780470309532	CMakeFiles/isolation.dir/main.cpp.obj	9f694bdb60cea25
+1008	1176	7044780472020231	isolation.exe	3de75fefe1c57643
